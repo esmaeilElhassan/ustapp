@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "nested.ust.elearning",
+    "app_id" : "ust.elearning",
     "appname": "U.S.T Elerning",
     "desktopappname": "U.S.T Elerning",
     "versioncode" : "2001",
